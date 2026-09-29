@@ -1,0 +1,50 @@
+[
+ {
+  "contact": "Sarah Johnson",
+  "text": "Meeting 'Discovery call' with Sarah Johnson on 2026-06-02. Summary: Sarah Johnson wants to reduce her team's manual reporting time from three days a month to hours and emphasized strict SAML\u2011only SSO and data\u2011retention concerns. She prefers concise three\u2011bullet emails on Tuesday mornings, and I pledged to send API documentation and a security whitepaper soon. Topics: manual reporting time reduction; SAML SSO requirement; data retention; communication preferences; API documentation; security whitepaper; vendor security review sign\u2011off. Decisions: none. Commitments made: me will Send API documentation (due 2026-06-06); me will Send security whitepaper (due 2026-06-09). Unresolved issues: Who signs off on vendor security reviews internally. Follow-ups: Email API docs by Thursday (2026-06-06); Email security whitepaper by next week (by 2026-06-09); Check back with Sarah after she confirms internal security review sign\u2011off. Previously open items resolved in this meeting: none.",
+  "context": "meeting record",
+  "date": "2026-06-02"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Preferences and style of Sarah Johnson, observed on 2026-06-02: short emails, three bullets max; prefers Tuesday mornings; mobile\u2011friendly format",
+  "context": "contact preferences",
+  "date": "2026-06-02"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Meeting 'API walkthrough' with Sarah Johnson on 2026-06-16. Summary: Sarah reviewed the API docs with her engineers, raising questions about rate limits, and expressed mild annoyance over a delayed security whitepaper. She requested a SOC2 report, an answer on SAML support, and will introduce the assistant to her CTO before pilot discussions. Topics: API documentation review; REST design; Rate limits; Security whitepaper delay; SOC2 report request; Competitor DataPulse pricing; SAML support; CTO introduction. Decisions: none. Commitments made: me will Send SOC2 report to Sarah Johnson (due 2026-06-21); me will Obtain confirmation on SAML support from engineering (due unspecified); Sarah Johnson will Introduce me to CTO Ravi Menon (due unspecified). Unresolved issues: Confirmation of SAML support from engineering; Decision on competitor DataPulse lower per\u2011seat pricing; Internal sign\u2011off for vendor security reviews; Clarification of API rate limits. Follow-ups: Email SOC2 report by Friday (2026\u201106\u201121); Get engineering answer on SAML support and communicate back; Await introduction to CTO Ravi Menon; Respond to engineers' rate\u2011limit questions; Revisit competitor pricing if needed. Previously open items resolved in this meeting: Security whitepaper sent (though 5 days late).",
+  "context": "meeting record",
+  "date": "2026-06-16"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Preferences and style of Sarah Johnson, observed on 2026-06-16: short emails, three\u2011bullet max; Tuesday mornings; mobile\u2011friendly format",
+  "context": "contact preferences",
+  "date": "2026-06-16"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Meeting 'Pilot scoping' with Sarah Johnson on 2026-07-07. Summary: The pilot was approved for three teams over 60 days starting Aug\u202f1 with a 70% reporting\u2011time reduction goal, and Sarah accepted the SOC2 report. She requested a 15% discount for an annual commitment and a written confirmation of the SAML beta slated for August, which will be escalated internally. Topics: Pilot scope and timeline; Success metric (70% reporting time reduction); SOC2 report acceptance; Pricing discount request (15% annual); SAML support beta target (August); Data\u2011driven presentation style. Decisions: Pilot approved: 3 teams for 60 days starting Aug\u202f1 with success metric of 70% reporting\u2011time reduction; SOC2 report accepted by security team. Commitments made: me will Present 15% discount request to manager (due unspecified); me will Provide written confirmation of SAML beta target for August (due unspecified). Unresolved issues: Discount approval from manager; Written SAML confirmation still pending; Final pilot agreement details to be finalized. Follow-ups: Send discount proposal to manager and report back to Sarah; Email written SAML beta timeline to Sarah; Draft and circulate pilot agreement for signature; Confirm internal resources for Aug\u202f1 start. Previously open items resolved in this meeting: SOC2 report sent and accepted; Introduction to CTO Ravi Menon completed.",
+  "context": "meeting record",
+  "date": "2026-07-07"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Preferences and style of Sarah Johnson, observed on 2026-07-07: short emails, three\u2011bullet max; Tuesday mornings; mobile\u2011friendly format; no\u2011fluff, data\u2011driven slides with numbers and timelines",
+  "context": "contact preferences",
+  "date": "2026-07-07"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Meeting 'Pilot midpoint review' with Sarah Johnson on 2026-08-11. Summary: The pilot is halfway through with two of three teams onboard and reporting time reduced by 55%, but API rate\u2011limit issues are causing engineer frustration. Sarah learned the manager approved a 10% discount (not the requested 15%) and asked for an ROI one\u2011pager, a rate\u2011limit fix ETA, and a named customer success manager before the Q4 budget rollout. Topics: Pilot progress and reporting\u2011time reduction; API rate\u2011limit problems in staging; SAML beta delivery; Discount approval (10% vs 15%); Budget approval timeline (Q4); ROI summary request for finance; Named customer success manager request; Rate\u2011limit fix ETA. Decisions: Manager approved a 10% discount for the pilot. Commitments made: me will Send ROI one\u2011pager to Sarah (due 2026-08-25); me will Provide ETA for API rate\u2011limit fix (due unspecified); me will Communicate 10% discount decision to Sarah (due unspecified). Unresolved issues: API rate\u2011limit throttling affecting nightly report runs; Final budget approval for full rollout in Q4; Potential disappointment from Sarah over reduced discount; Assignment of a named customer success manager. Follow-ups: Email ROI one\u2011pager by 2026\u201108\u201125; Send ETA for fixing API rate limits; Notify Sarah of the 10% discount approval; Work with engineering to resolve API rate\u2011limit issue; Prepare Q4 budget justification and ROI materials; Identify and assign a named customer success manager. Previously open items resolved in this meeting: Written confirmation of SAML beta target (delivered on Aug\u202f5).",
+  "context": "meeting record",
+  "date": "2026-08-11"
+ },
+ {
+  "contact": "Sarah Johnson",
+  "text": "Preferences and style of Sarah Johnson, observed on 2026-08-11: short emails, max three bullet points; send on Tuesday mornings; mobile\u2011friendly format; no\u2011fluff, data\u2011driven slides with numbers and timelines",
+  "context": "contact preferences",
+  "date": "2026-08-11"
+ }
+]

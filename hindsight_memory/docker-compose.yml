@@ -1,0 +1,14 @@
+services:
+  hindsight:
+    image: ghcr.io/vectorize-io/hindsight:latest
+    ports:
+      - "8888:8888"   # API
+      - "9999:9999"   # UI
+    environment:
+      HINDSIGHT_API_LLM_PROVIDER: openai
+      HINDSIGHT_API_LLM_API_KEY: ${OPENAI_API_KEY}
+      HINDSIGHT_API_LLM_MODEL: gpt-4o-mini
+    volumes:
+      - hindsight-data:/home/hindsight/.pg0
+volumes:
+  hindsight-data:
